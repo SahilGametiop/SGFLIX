@@ -7,7 +7,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
 ‣ ᴍʏ ɴᴀᴍᴇ : <a href='https://t.me/smart420BoT'>SᴍᴀʀT BᴏT🇮🇳</a>
  ‣ My best friend : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
- ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/kingvj01'>❣️ Fᴀʜᴇᴇᴍ 🇮🇳</a> 
+ ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/kingvj01'>❣️ 𖣔ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ𝗕𝗮𝗺𝘀𝗶𖣔ꠋꠋꠋꠋꠋꠋꠋ 🇮🇳</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
  ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
  ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -15,10 +15,10 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
  ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]></b>"""
 
     SOURCE_TXT = """<b>┏━•❃𓊈𒆜Oᴡɴᴇʀ Dᴇᴛᴀɪʟꜱ𒆜𓊉❃•━┓   
- ◈ ᴛɢ ɴᴀᴍᴇ : ⚝𝗠𝗿.𝗙𝗔𝗛𝗘𝗘𝗠⚝
- ◈ ɴɪᴄᴋɴᴀᴍᴇ : 𝐅𝐀𝐇𝐄𝐄𝐌 💎
- ◈ ᴜꜱᴇʀɴᴀᴍᴇ : @Faheem21025492006
- ◈ ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/Faheem21025492006'>♻️ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+ ◈ ᴛɢ ɴᴀᴍᴇ : ⚝𝗠𝗿.𖣔ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ𝗕𝗮𝗺𝘀𝗶𖣔ꠋꠋꠋꠋꠋꠋꠋ⚝
+ ◈ ɴɪᴄᴋɴᴀᴍᴇ : 𖣔ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ𝗕𝗮𝗺𝘀𝗶𖣔ꠋꠋꠋꠋꠋꠋꠋ 💎
+ ◈ ᴜꜱᴇʀɴᴀᴍᴇ : @Arshadsiddiquii
+ ◈ ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/Arshadsiddiquii'>♻️ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 ‿︵‿︵‿︵‿୨❤୧‿︵‿︵‿︵‿ </b>"""
 
 
@@ -662,11 +662,11 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 ❤️‍🔥sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ ᴅᴇᴠᴇʟᴏᴘᴇʀs  -
 
-- Dᴇᴠᴇʟᴏᴘᴇʀ [Oᴡɴᴇʀ ᴏғ ᴛʜɪs ʙᴏᴛ]<a href='https://t.me/Faheem21025492006'>Fᴀʜᴇᴇᴍ 🇮🇳</a>
+- Dᴇᴠᴇʟᴏᴘᴇʀ [Oᴡɴᴇʀ ᴏғ ᴛʜɪs ʙᴏᴛ]<a href='https://t.me/Arshadsiddiquii'>𖣔ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ𝗕𝗮𝗺𝘀𝗶𖣔ꠋꠋꠋꠋꠋꠋꠋ 🇮🇳</a>
 
-- Gʀᴏᴜᴘ - <a href='https://t.me/MOVIERIQVESTATOZ'>VJ</a>
+- Gʀᴏᴜᴘ - <a href='https://t.me/MovieRiqust'>VJ</a>
 
-- Cʜᴀɴɴᴇʟ - <a href='https://t.me/faheem786786>ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ</a>
+- Cʜᴀɴɴᴇʟ - <a href='https://t.me/LetestHindiM>ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ</a>
 
-- Cʜᴀɴɴᴇʟ - <a href='https://t.me/FAHEEMKHATRI7861'>sᴇᴄᴏɴᴅ - ᴍᴏᴠɪᴇ ᴄʜᴀɴɴᴇʟ</a>
+- Cʜᴀɴɴᴇʟ - <a href='https://t.me/LetestHindiM'>sᴇᴄᴏɴᴅ - ᴍᴏᴠɪᴇ ᴄʜᴀɴɴᴇʟ</a>
 """
