@@ -41,7 +41,7 @@ async def save_group(bot, message):
                     InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                     InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                  ],[
-                    InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/Faheem21025492006")
+                    InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="@Alyaralp")
                   ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await message.reply_text(
@@ -64,7 +64,7 @@ async def save_group(bot, message):
                                                                            InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                                                                            InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                                                                         ],[
-                                                                           InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/Faheem21025492006")
+                                                                           InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="@Alyaralp")
                                                                          ]]
                                                  ),
                                                  parse_mode=enums.ParseMode.HTML
@@ -90,9 +90,9 @@ async def leave_a_chat(bot, message):
     try:
         buttons = [[
             InlineKeyboardButton('Support Group',url="https://t.me/{SUPPORT_CHAT}"),
-            InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/Faheem21025492006")
+            InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="@Alyaralp")
         ],[
-            InlineKeyboardButton('Use Me Here', url=f'https://t.me/movieriqvestatoz')
+            InlineKeyboardButton('Use Me Here', url=f'https://t.me/iPapkornbeta_bots')
         ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await bot.send_message(
