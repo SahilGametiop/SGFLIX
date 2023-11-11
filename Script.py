@@ -73,7 +73,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/Faheem21025492006>☢Fᴀʜᴇᴇᴍ</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/Alyaralp>☢⚝𝗠𝗿.𖣔ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ𝗕𝗮𝗺𝘀𝗶𖣔ꠋꠋꠋꠋꠋꠋꠋ⚝</a></b>
   
  <b>✯ Join here : <a href=https://t.me/IPAPKORNBETABOTS>☢ᴊᴏɪɴ ᴍʏ ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ☢</a></b> 
   
@@ -90,7 +90,7 @@ my features Stay here new features coming soon...
   
  ./video - This command usage any YouTube video download hd [<code>example /video https://youtu.be/Aiue8PMuD-k</code>]
 
-./font - This command usage stylish and cool font generator [<code>example /font Fᴀʜᴇᴇᴍ</code>]"""
+./font - This command usage stylish and cool font generator [<code>example /font ⚝𝗠𝗿.𖣔ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ𝗕𝗮𝗺𝘀𝗶𖣔ꠋꠋꠋꠋꠋꠋꠋ⚝</code>]"""
 
 
     ADMIN_TXT = """ʜᴇʟᴘ: Aᴅᴍɪɴ Mᴏᴅs
